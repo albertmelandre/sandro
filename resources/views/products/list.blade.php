@@ -23,7 +23,7 @@
                 <th>{{"Nome"}}</th>
                 <th>{{"Marca"}}</th>
                 <th>{{"Valor"}}</th>
-                <th>{{"Em Estoque"}}</th>
+                <th>{{"Quantidade"}}</th>
                 <th colspan="2">{{"Opções"}}</th>
             </tr>
 
